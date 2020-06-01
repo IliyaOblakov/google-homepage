@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+main {
+
+    margin-top: 5em;
+
+}
+
+#img {
+
+    margin-top: 12em;
+    margin-left: 18em;
+
+}
